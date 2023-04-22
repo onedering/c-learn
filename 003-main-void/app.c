@@ -1,2 +1,4 @@
-welcome;
-привет
+int main()
+{
+    return 0;
+}

@@ -3,6 +3,6 @@
 
 int main(int argc, char const *argv[])
 {
-    puts("welcome to the club buddy");    
+    puts("");    
     return 0;
 }
